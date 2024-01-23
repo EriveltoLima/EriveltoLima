@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Erivelto Lima 😁
+## Bem-vindo(a) ao perfil do Erivelto Lima.
 
  <div>
    <a href="https://github.com/EriveltoLima">
@@ -19,5 +19,5 @@
 <div> 
   <a href="https://instagram.com/eriveltoliima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:eriveltoefltec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eriveltoflorênciodelima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
